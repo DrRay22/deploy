@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/network_app/static/css/main.1fd49683.css",
+    "main.js": "/network_app/static/js/main.d5ea01d8.js",
+    "index.html": "/network_app/index.html",
+    "main.1fd49683.css.map": "/network_app/static/css/main.1fd49683.css.map",
+    "main.d5ea01d8.js.map": "/network_app/static/js/main.d5ea01d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd49683.css",
+    "static/js/main.d5ea01d8.js"
+  ]
+}
